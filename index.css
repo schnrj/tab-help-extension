@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    min-width: 500px; /*this tells the chrome the minimum size the extension must maintain*/
+}
+#input{
+    display: block;
+    border: 2px solid #900d85;
+    width: 90%;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 20px;
+    font-weight: bold;;
+}
+#saveinp{
+    display: inline;
+    background-color: rgb(105, 22, 100);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    position: relative;
+    
+}
+ul{
+    padding-top: 5px;
+}
+a{
+    color:#7b0b71;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    border: px solid red;
+    margin: 10px;
+}
+li{
+    margin: 10px;
+}
+#clear {
+    display: inline;
+    background-color: rgb(105, 22, 100);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    position: relative;
+
+
+}
+#savtb{
+    display: inline;
+    background-color: rgb(105, 22, 100);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    position: relative;
+
+}
